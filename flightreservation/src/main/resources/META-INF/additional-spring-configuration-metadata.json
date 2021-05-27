@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "com.brunomilitzer.flightreservation.itinerary.dirpath",
+      "type": "java.lang.String",
+      "description": "Description for com.brunomilitzer.flightreservation.itinerary.dirpath."
+    },
+    {
+      "name": "com.brunomilitzer.flightreservation.itinerary.email.body",
+      "type": "java.lang.String",
+      "description": "Description for com.brunomilitzer.flightreservation.itinerary.email.body."
+    },
+    {
+      "name": "com.brunomilitzer.flightreservation.itinerary.email.subject",
+      "type": "java.lang.String",
+      "description": "Description for com.brunomilitzer.flightreservation.itinerary.email.subject."
+    }
+  ]
+}
